@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     unsigned int suma1 = 0; unsigned int lado = 4; unsigned int suma2 =0; bool cg =true;
-    int n = 0;
+    short int n = 0;
     int a[4][4] ={{16,3,2,13},{5,10,11,8},{9,6,7,12},{4,15,14,1}}; // Aun no hemos visto en clase como ingresar arreglos por la terminal
     // Para hacer pruebas hay que cambiar tambien el valor de la variable lado
     suma1 = (lado*((lado*lado)+1))/2;
